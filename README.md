@@ -1,33 +1,16 @@
-👋 Hi, I’m Thai An
+# 👋 Hi, I'm Thai An
 
-👀 I’m passionate about software development, with a strong focus on JavaScript & TypeScript ecosystems.
-🌱 I’m currently deepening my knowledge in NestJS and backend system design.
+💻 Backend Developer passionate about JavaScript & TypeScript.
 
-✌️ Recently, I’ve been working with:
+🌱 Currently focused on **NestJS**, **Microservices**, and **Backend System Design**.
 
-  - Backend & Architecture
+### Tech Stack
 
-     - Medium to complex Microservices architectures
-    
-     - Event-driven systems and Message Queues (Redis, RabbitMQ)
-    
-     - Designing scalable and maintainable backend services
+* **Backend:** NestJS, Node.js, TypeScript
+* **Architecture:** Microservices, Event-driven, Redis, RabbitMQ
+* **Databases:** PostgreSQL, SQL Server, MongoDB, Elasticsearch
+* **System Design:** REST APIs, GraphQL, Scalable & Maintainable Systems
 
-  - Databases
-  
-     - SQL: PostgreSQL, Microsoft SQL Server
-    
-     - NoSQL: MongoDB, Elasticsearch
+🤝 Always open to collaborating on impactful projects and learning from great engineers.
 
-  - System Design
-
-     - API design (REST / GraphQL)
-    
-     - Design systems & modular architecture
-    
-     - Performance, scalability, and maintainability considerations
-
-💞️ I’m looking to collaborate on projects where I can contribute real value, learn from experienced engineers, and continuously improve my skills.
-
-📫 Feel free to reach out if you’d like to collaborate or need help with backend development:
-Email: thaianthedev@gmail.com
+📫 **Email:** [thaianthedev@gmail.com](mailto:thaianthedev@gmail.com)
