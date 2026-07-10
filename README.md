@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thai An
 
-💻 Software Enginer passionate about [JavaScript TypeScript C# Java]
+💻 Software Enginer passionate about [JavaScript - TypeScript - C# - Java]
 
 🌱 Currently focused on **NestJS**, **Microservices**, **Backend System Design**, and **Artificial Intelligence**.
 
