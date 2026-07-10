@@ -2,7 +2,7 @@
 
 💻 Software Enginer passionate about [JavaScript - TypeScript - C# - Java]
 
-🌱 Currently focused on **NestJS**, **Microservices**, **Backend System Design**, and **Artificial Intelligence**.
+🌱 Currently focused on **NestJS**, **Microservices**, **Monorepo**, **Backend System Design**, and **Artificial Intelligence**.
 
 ### Tech Stack
 
