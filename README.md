@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thai An
 
-💻 Backend Developer passionate about JavaScript & TypeScript.
+💻 Software Enginer passionate about JavaScript & TypeScript.
 
 🌱 Currently focused on **NestJS**, **Microservices**, **Backend System Design**, and **Artificial Intelligence**.
 
